@@ -15,9 +15,9 @@ adicione um atributo endereço do tipo varchar.
 ## Resposta
 
 
-CREATE TABLE aluno (
-  ID SERIAL PRIMARY KEY,
-  nome VARCHAR(30) NOT NULL,
-  email VARCHAR(50),
-  endereco VARCHAR(100)
+CREATE TABLE aluno (  <br /> 
+  ID SERIAL PRIMARY KEY,  <br />
+  nome VARCHAR(30) NOT NULL,  <br /> 
+  email VARCHAR(50),  <br /> 
+  endereco VARCHAR(100) <br /> 
   );
